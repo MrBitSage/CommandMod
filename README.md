@@ -4,11 +4,33 @@ Adds needed items, blocks, ores, recipes, and logic to allow Command Blocks in s
 
 ## Installation
 
-Download the correct jar from the Jars folder and place it in the mods directory of both your server and client.
+Download the jar from the Jars folder and place it in the mods directory of both your server and client.
 
 ## Usage
 
-TODO: Write usage instructions
+Once the mod is loaded, it will generate command ore in the lowest levels of the world. It is extremely rare. In order to mine it, you must craft a Black Diamond Pickaxe with the following recipe:
+
+D O D
+  P
+  S
+
+D: Diamond
+O: Obsidian
+P: Diamond Pickaxe
+S: Stick
+
+
+Mined Command Ore will drop Command Dust which must be smelted into Command Gears.
+
+Once you have enough Command Gears, the following recipe will produce a Command Block:
+
+I G I
+G R G
+I G I
+
+I: Iron Ingot
+G: Command Gear
+R: Redstone
 
 ## Contributing
 
