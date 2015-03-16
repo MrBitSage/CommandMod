@@ -1,5 +1,5 @@
 -------------------------------------------
-Source installation information for modders
+Instillation
 -------------------------------------------
 This code follows the Minecraft Forge installation methodology. It will apply
 some small patches to the vanilla MCP source code, giving you and it access 
