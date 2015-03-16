@@ -5,7 +5,7 @@ Adds needed items, blocks, ores, recipes, and logic to allow Command Blocks in s
 ## Installation
 
 Download the jar from the Jars folder and place it in the mods directory of both your server and client.
-test
+
 ## Usage
 
 Once the mod is loaded, it will generate command ore in the lowest levels of the world. It is extremely rare. In order to mine it, you must craft a Black Diamond Pickaxe with the following recipe:
