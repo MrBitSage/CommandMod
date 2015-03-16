@@ -12,9 +12,9 @@ Once the mod is loaded, it will generate command ore in the lowest levels of the
 
 D O D
 
-  P
+_ P _
 
-  S
+_ S _
 
 D: Diamond
 O: Obsidian
