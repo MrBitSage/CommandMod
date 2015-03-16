@@ -4,7 +4,7 @@ Adds needed items, blocks, ores, recipes, and logic to allow Command Blocks in s
 
 ## Installation
 
-Download the correct jar from the build/libs folder and place it in the mods directory of both your server and client.
+Download the correct jar from the Jars folder and place it in the mods directory of both your server and client.
 
 ## Usage
 
