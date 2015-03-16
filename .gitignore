@@ -1,9 +1,3 @@
 # Created by .ignore support plugin (hsz.mobi)
 gradle
 eclipse
-build/classes
-build/.gitignore
-build/sources
-build/natives
-build/dependency-cache
-build/tmp
