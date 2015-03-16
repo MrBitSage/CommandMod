@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "normal": [
+      {
+        "model": "mbs_cm:blockCommandOre"
+      },
+      {
+        "model": "mbs_cm:blockCommandOre",
+        "y": 90
+      },
+      {
+        "model": "mbs_cm:blockCommandOre",
+        "y": 180
+      },
+      {
+        "model": "mbs_cm:blockCommandOre",
+        "y": 270
+      }
+    ]
+  }
+}

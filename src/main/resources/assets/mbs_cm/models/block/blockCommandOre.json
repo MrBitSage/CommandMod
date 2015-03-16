@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mbs_cm:blocks/blockCommandOre_up_down",
+    "up": "mbs_cm:blocks/blockCommandOre_up_down",
+    "north": "mbs_cm:blocks/blockCommandOre_north_south",
+    "south": "mbs_cm:blocks/blockCommandOre_north_south",
+    "west": "mbs_cm:blocks/blockCommandOre_west_east",
+    "east": "mbs_cm:blocks/blockCommandOre_west_east",
+    "particle": "mbs_cm:blocks/blockCommandOre"
+  }
+}

@@ -1,0 +1,5 @@
+tile.mbs_cm:blockCommandOre.name=Command Ore
+
+item.mbs_cm:itemCommandDust.name=Command Dust
+item.mbs_cm:itemCommandGears.name=Command Gears
+item.mbs_cm:itemBlackDiamondPickaxe.name=Black Diamond Pickaxe
