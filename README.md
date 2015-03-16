@@ -46,11 +46,15 @@ R: Redstone
 
 ## History
 
-TODO: Write history
+Version 1.0 released on March 16, 2015
 
 ## Credits
 
-TODO: Write credits
+TheGreyGhost for his great Minecraft By Example code and series of articles outlining just how Minecraft and Forge work.
+
+MrCrayfish for his Modding Tutorials on YouTube
+
+Wuppy29 for his Modding Tutorials
 
 ## License
 
