@@ -91,7 +91,7 @@ public class CommonProxy {
         GameRegistry.addRecipe(new ItemStack(Blocks.command_block, 1), "IGI", "GRG", "IGI", 'I', Items.iron_ingot, 'G', itemCommandGears, 'R', Items.redstone);
 
         // Add Item Recipes/Smelting
-        GameRegistry.addSmelting(new ItemStack(itemCommandDust, 2), new ItemStack(itemCommandGears), 1.5F);
+        GameRegistry.addSmelting(new ItemStack(itemCommandDust), new ItemStack(itemCommandGears), 1.5F);
 
         // Add Tool Recipes
         GameRegistry.addRecipe(new ItemStack(itemBlackDiamondPickaxe, 1), "DOD", " P ", " S ", 'D', Items.diamond, 'O', Blocks.obsidian, 'P', Items.diamond_pickaxe, 'S', Items.stick);
