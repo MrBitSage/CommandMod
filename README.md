@@ -54,4 +54,4 @@ TODO: Write credits
 
 ## License
 
-TODO: Write license
+See License.txt
