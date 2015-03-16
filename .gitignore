@@ -1,10 +1,9 @@
 # Created by .ignore support plugin (hsz.mobi)
-.gradle\
-build\classes\
-build\dependency-cache\
-build\natives\
-build\sources\
-build\tmp\
-build\.gitignore
-eclipse\
-gradle\
+gradle
+eclipse
+build/classes
+build/.gitignore
+build/sources
+build/natives
+build/dependency-cache
+build/tmp
