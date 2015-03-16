@@ -1,6 +1,6 @@
 # MrBitSage's Command Mod
 
-Adds needed items, blocks, ores, recipes, and logic to allow Command Blocks in survival mode. Should hopefully allow for some fun, yet not overpowered gameplay.
+Adds needed items, blocks, ores, recipes, and logic to allow Command Blocks in survival mode. Should hopefully allow for some fun -- yet not overpowered -- gameplay.
 
 ## Installation
 
