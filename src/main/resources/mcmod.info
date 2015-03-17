@@ -2,13 +2,15 @@
 {
   "modid": "mbs-cm",
   "name": "MrBitSage's Command Mod",
-  "description": "Adds needed items, blocks, ores, recipes, and logic to allow Command Blocks in survival mode. Should hopefully allow for some fun, yet not overpowered, gameplay.",
+  "description": "Adds needed items, blocks, ores, recipes, and logic to allow Command Blocks in survival mode. Should hopefully allow for some fun -- yet not overpowered -- gameplay.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
   "authorList": ["MrBitSage"],
-  "credits": "TheGreyGhost for his incredible MBE project and series of very informative blogposts",
+  "credits": "TheGreyGhost for his great Minecraft By Example code and series of articles outlining just how Minecraft and Forge work.
+  MrCrayfish for his Modding Tutorials on YouTube.
+  Wuppy29 for his Modding Tutorials.",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
